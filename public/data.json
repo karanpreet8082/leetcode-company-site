@@ -1,0 +1,34 @@
+{
+    "Amazon": [
+      { "id": 1, "title": "Two Sum", "difficulty": "Easy", "link": "https://leetcode.com/problems/two-sum/" },
+      { "id": 56, "title": "Merge Intervals", "difficulty": "Medium", "link": "https://leetcode.com/problems/merge-intervals/" }
+    ],
+    "Google": [
+      { "id": 3, "title": "Longest Substring Without Repeating Characters", "difficulty": "Medium", "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/" },
+      { "id": 215, "title": "Kth Largest Element in an Array", "difficulty": "Medium", "link": "https://leetcode.com/problems/kth-largest-element-in-an-array/" }
+    ],
+    "Flipkart": [
+      { "id": 1, "title": "Two Sum", "difficulty": "Easy", "link": "https://leetcode.com/problems/two-sum/" },
+      { "id": 56, "title": "Merge Intervals", "difficulty": "Medium", "link": "https://leetcode.com/problems/merge-intervals/" }
+    ],
+    "PhonePe": [
+      { "id": 3, "title": "Longest Substring Without Repeating Characters", "difficulty": "Medium", "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/" },
+      { "id": 215, "title": "Kth Largest Element in an Array", "difficulty": "Medium", "link": "https://leetcode.com/problems/kth-largest-element-in-an-array/" }
+    ],
+    "JP": [
+      { "id": 1, "title": "Two Sum", "difficulty": "Easy", "link": "https://leetcode.com/problems/two-sum/" },
+      { "id": 56, "title": "Merge Intervals", "difficulty": "Medium", "link": "https://leetcode.com/problems/merge-intervals/" }
+    ],
+    "DB": [
+      { "id": 3, "title": "Longest Substring Without Repeating Characters", "difficulty": "Medium", "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/" },
+      { "id": 215, "title": "Kth Largest Element in an Array", "difficulty": "Medium", "link": "https://leetcode.com/problems/kth-largest-element-in-an-array/" }
+    ],
+    "Zomato": [
+      { "id": 1, "title": "Two Sum", "difficulty": "Easy", "link": "https://leetcode.com/problems/two-sum/" },
+      { "id": 56, "title": "Merge Intervals", "difficulty": "Medium", "link": "https://leetcode.com/problems/merge-intervals/" }
+    ],
+    "Dream11": [
+      { "id": 3, "title": "Longest Substring Without Repeating Characters", "difficulty": "Medium", "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/" },
+      { "id": 215, "title": "Kth Largest Element in an Array", "difficulty": "Medium", "link": "https://leetcode.com/problems/kth-largest-element-in-an-array/" }
+    ]
+  }
